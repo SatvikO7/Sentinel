@@ -184,20 +184,31 @@ Follow these steps to set up and run the project:
    git clone <repository-url>
    cd worldStrat
    ```
+2. **change directory to suitable model**
+   ```bash
+   cd GAN
+   ```
+   **OR**
+   ```bash
+   cd ResNet
+   ```
+   **OR**
+   ```bash
+   cd TransformerDiffusion
+   ```
 
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Open the notebook**
+4. **Open the notebook**
    - Launch Jupyter Notebook or JupyterLab
    - Alternatively, open in Google Colab for cloud-based execution
 
-4. **Execute the notebook**
+5. **Execute the notebook**
    - Run cells sequentially from top to bottom
    - Monitor training progress and results
-
 ---
 
 ## Conclusion
