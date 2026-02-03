@@ -48,10 +48,15 @@ Suitable for feature learning and classification
 Not designed for image generation.
 
 ![GAN image](utils/LR_HR_SR_comparasion.png)
+
 ![ResNet comparision image](utils/comparision.png)
+
 ![Difussion model image](utils/swinir_visual_results.png)
+
 ![ResNet Graphs](utils/graphs.png)
+
 ![Diffusion Graphs](utils/swinir_training_history.png)
+
 ![Samples](utils/samples.png)
 
 
@@ -66,8 +71,6 @@ Not designed for image generation.
 
 
 # Tech Stack
-
-Python
 
 PyTorch / TensorFlow
 
