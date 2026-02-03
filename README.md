@@ -48,16 +48,22 @@ Suitable for feature learning and classification
 Not designed for image generation.
 
 ![GAN image](utils/LR_HR_SR_comparasion.png)
+GAN Comparision image
 
 ![ResNet comparision image](utils/comparision.png)
+ResNet comparision image
 
 ![Difussion model image](utils/swinir_visual_results.png)
+Diffusion model image
 
 ![ResNet Graphs](utils/graphs.png)
+Resnet Performance Graph
 
 ![Diffusion Graphs](utils/swinir_training_history.png)
+Diffusion Performance Graph
 
 ![Samples](utils/samples.png)
+Data Samples 
 
 
 
