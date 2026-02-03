@@ -165,15 +165,6 @@ The dataset maintains structured relationships between image pairs:
 - Matching information provided in the metadata CSV
 - Enables multi-frame super-resolution training approaches
 - Supports temporal analysis and enhancement techniques
-# How to Run locally
-
-Clone the repository
-
-Open any notebook in Jupyter or Google Colab
-
-Install required dependencies
-
-Run cells sequentially
 
 ## How to Run Locally
 
