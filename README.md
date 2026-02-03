@@ -172,8 +172,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd worldStrat
+   git clone [<repository-url>](https://github.com/SatvikO7/Sentinel.git)
    ```
 2. **change directory to suitable model**
    ```bash
