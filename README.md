@@ -118,7 +118,7 @@ A convolutional neural network with residual connections:
 
 # Dataset
 
-1# Dataset Structure
+## Dataset Structure
 
 The WorldStrat dataset comprises satellite imagery pairs for super-resolution tasks, organized into the following components:
 
